@@ -24,7 +24,7 @@
 
 # 📖 spacex <a name="about-project"></a>
 
-This site is built as part of an exercise at Microverse. The site displays various greetings, This project is created with react js👌 and Redux as a state managment library.
+This site is built as part of an exercise at Microverse. The site displays various greetings, This project is created with react js👌 and Redux as a state managment library
 
 **The spacex React project** i
 
