@@ -12,8 +12,6 @@ function Greeting() {
     dispatch(getGreeting());
   }, [dispatch]);
 
-  console.log(message);
-
   return (
     <main>
       <h1>{message}</h1>
